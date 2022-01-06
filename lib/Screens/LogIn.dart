@@ -1,6 +1,6 @@
 //import 'dart:html';
 import 'package:flutter/material.dart';
-import 'package:untitled/Screens/Widget/customBtn.dart';
+import 'package:untitled/Widget/customBtn.dart';
 import 'package:untitled/Screens/constants.dart';
 
 class LogInPage extends StatefulWidget {
